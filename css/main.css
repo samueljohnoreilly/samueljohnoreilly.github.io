@@ -305,10 +305,7 @@ ul li {
 	min-height: 750px;
 }
 .banner-inner-wrapper {
-	position: static;
-	top: 30%;
-	left: 60%;
-	transform: translate(-5%, 0%);
+	float: left;
 }
 .background-wrapper {
 background-color: rgba(125, 125, 125, 0.3);
