@@ -146,14 +146,14 @@ ul li {
 	display: inline-block;
 }
 .navigation a {
-	color: #808080;
+	color: #2d3033;
 	font-size: 13px;
 	font-weight: 300;
 	letter-spacing: 2px;
 	margin-left: 40px;
 }
 .navigation a:hover, .navigation a.active {
-	color: #262626;
+	color: grey;
 }
 .nav-toggle {
 	display: none;
