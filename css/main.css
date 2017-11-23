@@ -304,7 +304,6 @@ ul li {
 }
 .banner-inner-wrapper {
 	float: right;
-	position: absolute;
 }
 .background-wrapper {
 background-color: rgba(125, 125, 125, 0.3);
